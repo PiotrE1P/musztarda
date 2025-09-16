@@ -1,2 +1,2 @@
 # musztarda
-Robimy stronę oraz grę o musztardzie>
+Robimy stronę oraz grę o musztardzie.
